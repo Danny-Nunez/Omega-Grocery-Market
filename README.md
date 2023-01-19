@@ -1,5 +1,5 @@
 # Omega-Grocery-Market
-![omegafront](https://user-images.githubusercontent.com/114783191/212226147-4d668a61-6000-439e-ae52-972cde3614c3.JPG)
+![storeomegalanding page](https://user-images.githubusercontent.com/114783191/213335613-2eeac357-efaf-4a8a-b1f2-e58d37b45994.JPG)
 
 View Live Project👇: <br />
 <a href="https://omegagrocerymarket.com/" target="_blank">https://omegagrocerymarket.com</a> <br />
