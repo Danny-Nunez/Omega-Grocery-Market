@@ -17,4 +17,5 @@ This Spanish grocery online store has been designed using the Laravel PHP framew
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=round-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=round-square&logo=firebase)
 ![GoogleMapsAPI](https://img.shields.io/badge/-GoogleMapsAPI-black?style=round-square&logo=googlemaps)
-![PHP](https://img.shields.io/badge/-PHP-black?style=round-square&logo=php)
+![Javascript](https://img.shields.io/badge/-Javascript-black?style=round-square&logo=javascript)
+
