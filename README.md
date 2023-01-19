@@ -7,7 +7,7 @@ View Live Project👇: <br />
 <p><h3>Project Details</h3>
 This Spanish grocery online store has been designed using the Laravel PHP framework and the Flutter mobile app development framework. The store is integrated with Stripe API for secure payments. The store also features a user-friendly interface, allowing customers to easily browse and purchase products. Additionally, the store offers a variety of payment options, including credit cards, PayPal, and Apple Pay. Customers can also track their orders in real-time and receive notifications when their orders are shipped or delivered. Finally, the store is optimized for SEO to ensure that customers can easily find it online. It also has a powerful backend to add locations, drivers, payment modules, currency and orders.</p>
 
-![backendomega](https://user-images.githubusercontent.com/114783191/212226966-6c89b043-cd7e-401f-b9f2-03bdc5865a83.JPG)
+![backend](https://user-images.githubusercontent.com/114783191/213335846-83ba135a-0f6d-4c45-aff4-284b979b5fcb.JPG)
 
 ### 🛠️ Tech-Stack Used
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=round-square&logo=laravel)
